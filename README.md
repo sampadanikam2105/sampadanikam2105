@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Sampada Nikam
 
-<!--
-**sampadanikam2105/sampadanikam2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Statistics | 📊 Data Analyst with 2+ years of experience  
+💻 Skills: Statistics | Python | SQL | Power BI | Excel | Machine Learning  
+📈 Passionate about turning raw data into insights and stories  
+🌱 Currently learning: Google Looker Studio
+📬 Reach me at: sampadanikam2105@gmail.com | https://www.linkedin.com/in/sampada-nikam-671aa1226
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- Python, Pandas, NumPy, Seaborn, Matplotlib
+- SQL (MySQL/PostgreSQL)
+- Excel (Formulas, PivotTables, Charts)
+- Power BI & Tableau
+- Machine Learning (Sklearn, KMeans, Logistic Regression)
