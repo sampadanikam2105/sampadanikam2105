@@ -8,7 +8,7 @@
 
 ## 🔧 Tools & Technologies
 - Python, Pandas, NumPy, Seaborn, Matplotlib
-- SQL (MySQL/PostgreSQL)
+- SQL (PostgreSQL)
 - Excel (Formulas, PivotTables, Charts)
-- Power BI & Tableau
-- Machine Learning (Sklearn, KMeans, Logistic Regression)
+- Power BI 
+- Machine Learning (Sklearn, KMeans, Regression)
