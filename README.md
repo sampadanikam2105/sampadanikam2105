@@ -2,8 +2,9 @@
 
 🎓 MSc in Statistics | 📊 Data Analyst with 2+ years of experience  
 💻 Skills: Statistics | Python | SQL | Power BI | Excel | Machine Learning  
-📈 Passionate about turning raw data into insights and stories  
+📈 Passionate about turning raw data into insights and stories                         
 🌱 Currently learning: Google Looker Studio
+
 📬 Reach me at: sampadanikam2105@gmail.com | https://www.linkedin.com/in/sampada-nikam-671aa1226
 
 ## 🔧 Tools & Technologies
